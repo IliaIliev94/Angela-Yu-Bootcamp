@@ -129,6 +129,33 @@ h2 {
     padding: 3% 2%;
 }
 
+/* Call to action Section */
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.cta-heading {
+    font: 900 3.5rem/1.5 "Montserrat";
+    color: #ffffff;
+}
+
+/* Footer */
+#footer {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
+
+#footer p {
+    color: #8b8885;
+}
+
 @media (max-width: 1020px) {
     #title {
         text-align: center;
