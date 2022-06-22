@@ -34,6 +34,17 @@ p {
     font: 900 3.5rem/1.5 "Montserrat";
 }
 
+/* Sections */
+
+.colored-section {
+    background-color: #ff4c68;
+    color: #ffffff;
+}
+
+.white-section {
+    background-color: #ffffff;
+}
+
 /* Navigation Bar */
 
 .navbar {
@@ -63,8 +74,6 @@ p {
 /* Title Section */
 
 #title {
-    background-color: #ff4c68;
-    color: #ffffff;
     text-align: left;
 }
 
@@ -84,7 +93,6 @@ p {
 /* Features */
 
 #features {
-    background: #ffffff;
     position: relative;
     z-index: 1;
 }
