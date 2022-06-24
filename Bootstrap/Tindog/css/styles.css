@@ -24,14 +24,14 @@ p {
     color: #8f8f8f;
 }
 
+.big-heading {
+    font: 900 3.5rem/1.5 "Montserrat";
+}
+
 /* Containers */
 
 .container-fluid {
     padding: 7% 15%;
-}
-
-.big-heading {
-    font: 900 3.5rem/1.5 "Montserrat";
 }
 
 /* Sections */
@@ -121,7 +121,6 @@ p {
 
 #testimonials {
     background-color: #ef8172;
-    color: #ffffff;
 }
 
 .testimonials-image {
@@ -161,16 +160,7 @@ p {
     line-height: 1.5;
 }
 
-/* Call to action Section */
-#cta {
-    background-color: #ff4c68;
-    color: #ffffff;
-}
-
 /* Footer */
-#footer {
-    background-color: #ffffff;
-}
 
 .social-icon {
     margin: 20px 10px;
